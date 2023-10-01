@@ -9,10 +9,15 @@ export default {
 
 <template>
   <div>
-
+      <h1><p>TEST</p></h1>
   </div>
 </template>
 
 <style lang="scss" >
-
+  h1{
+    color: red;
+    p{
+      background: violet;
+    }
+  }
 </style>
